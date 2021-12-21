@@ -1,0 +1,27 @@
+{
+  "name": "javascript-alg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bwPowerSet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunweilibo/javascript-alg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunweilibo/javascript-alg/issues"
+  },
+  "homepage": "https://github.com/sunweilibo/javascript-alg#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.11.1",
+    "@typescript-eslint/parser": "^4.11.1",
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}

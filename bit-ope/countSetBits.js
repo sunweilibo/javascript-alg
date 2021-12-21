@@ -1,4 +1,4 @@
-export default function countSetBits(originalNumber) {
+function countSetBits(originalNumber) {
   let setBitCount = 0
   let number = originalNumber
 
